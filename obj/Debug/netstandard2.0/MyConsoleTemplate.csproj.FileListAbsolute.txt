@@ -1,0 +1,10 @@
+/Users/tymur/RiderProjects/TemplateProjects/bin/Debug/netstandard2.0/MyConsoleTemplate.deps.json
+/Users/tymur/RiderProjects/TemplateProjects/bin/Debug/netstandard2.0/MyConsoleTemplate.dll
+/Users/tymur/RiderProjects/TemplateProjects/bin/Debug/netstandard2.0/MyConsoleTemplate.pdb
+/Users/tymur/RiderProjects/TemplateProjects/obj/Debug/netstandard2.0/MyConsoleTemplate.csproj.AssemblyReference.cache
+/Users/tymur/RiderProjects/TemplateProjects/obj/Debug/netstandard2.0/MyConsoleTemplate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tymur/RiderProjects/TemplateProjects/obj/Debug/netstandard2.0/MyConsoleTemplate.AssemblyInfoInputs.cache
+/Users/tymur/RiderProjects/TemplateProjects/obj/Debug/netstandard2.0/MyConsoleTemplate.AssemblyInfo.cs
+/Users/tymur/RiderProjects/TemplateProjects/obj/Debug/netstandard2.0/MyConsoleTemplate.csproj.CoreCompileInputs.cache
+/Users/tymur/RiderProjects/TemplateProjects/obj/Debug/netstandard2.0/MyConsoleTemplate.dll
+/Users/tymur/RiderProjects/TemplateProjects/obj/Debug/netstandard2.0/MyConsoleTemplate.pdb

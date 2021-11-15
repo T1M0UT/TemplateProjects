@@ -1,0 +1,30 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Tymur Krasnianskiy",
+    "classifications": [ "Console App" ],
+    "identity": "MyCustomTemplate",
+    "name": "My custom console template",
+    "desciption": "Custom C# .Net Core Template",
+    "shortName": "mycustomtemplate",
+    "sourceName": "MyCustomTemplate",
+    "tags": {
+      "language": "C#",
+      "type": "project"
+    },
+    "symbols": 
+    {
+      "Framework":{
+        "type": "parameter",
+        "description": "The target framework for the project",
+        "datatype":"choice",
+        "choices": [
+          {
+            "choice": "net6.0"
+          }
+        ],
+        "defaultValue": "net6.0",
+        "replaces": "{TargetFramework}"
+      }
+    },
+    "preferNameDirectory": true
+}
