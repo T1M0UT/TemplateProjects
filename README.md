@@ -35,7 +35,6 @@ open NAME_OF_YOUR_PROJECT/NAME_OF_YOUR_PROJECT.sln
 ```
 And there you go!
 
-## License
-UCU
+
 
 _Made by Tymur Krasnianskiy_
