@@ -10,9 +10,9 @@
 
 ## Installation
 
-Use Visual Studio or Rider
-Open the NuGet Package Manager
-Find KrasnianskiyConsoleTemplate
+If you use Visual Studio or Rider
+open NuGet Package Manager
+and than find KrasnianskiyConsoleTemplate
 
 ### or
 
@@ -22,7 +22,7 @@ Use the terminal in your IDE or the default one, and type:
 dotnet new --install KrasnianskiyConsoleTemplate::1.0.0
 ```
 
-##Creating a new project
+## Creating a new project
 
 1. Open terminal in your IDE or in the built-in one in the target directory
 2. Type:
