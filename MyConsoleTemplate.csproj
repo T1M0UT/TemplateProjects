@@ -6,18 +6,24 @@
     <PackageId>KrasnianskiyConsoleTemplate</PackageId>
     <Title>Tymur's Custom Templates</Title>
     <Authors>Tymur Krasnianskiy</Authors>
+    <projectUrl>https://github.com/T1M0UT/TemplateProjects</projectUrl>
     <Description>An empty .Net Core Console Application template</Description>
     <PackageTags>dotnet-new;templates</PackageTags>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Copyright>Copyright 2021</Copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <language>C#</language>
 
     <IncludeContentInPack>true</IncludeContentInPack>
     <IncludeBuildOutput>false</IncludeBuildOutput>
     <ContentTargetFolders>content</ContentTargetFolders>
+    <PackageLicenseFile>license.txt</PackageLicenseFile>
   </PropertyGroup>
 
   <ItemGroup>
     <Content Include="templates\**\*" Exclude="templates\**\bin\**;templates\**\obj\**" />
     <Compile Remove="**\*" />
+    <None Include="licenses\license.txt" Pack="true" PackagePath="license.txt"/>
   </ItemGroup>
 
 </Project>

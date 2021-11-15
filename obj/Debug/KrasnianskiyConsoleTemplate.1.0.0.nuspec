@@ -5,12 +5,11 @@
     <version>1.0.0</version>
     <title>Tymur's Custom Templates</title>
     <authors>Tymur Krasnianskiy</authors>
-    <owners>Tymur Krasnianskiy</owners>
-    <licenseUrl></licenseUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">license.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
     <description>An empty .Net Core Console Application template</description>
-    <tags>dotnet-new templates</tags>
     <copyright>Copyright 2021</copyright>
+    <tags>dotnet-new templates</tags>
     <packageTypes>
       <packageType name="Template" />
     </packageTypes>
@@ -32,5 +31,6 @@
     <file src="/Users/tymur/RiderProjects/TemplateProjects/templates/MyCustomTemplate/MyCustomTemplate/.DS_Store" target="content/templates/MyCustomTemplate/MyCustomTemplate/.DS_Store" />
     <file src="/Users/tymur/RiderProjects/TemplateProjects/templates/MyCustomTemplate/MyCustomTemplate/MyCustomTemplate.csproj" target="content/templates/MyCustomTemplate/MyCustomTemplate/MyCustomTemplate.csproj" />
     <file src="/Users/tymur/RiderProjects/TemplateProjects/templates/MyCustomTemplate/MyCustomTemplate/Program.cs" target="content/templates/MyCustomTemplate/MyCustomTemplate/Program.cs" />
+    <file src="/Users/tymur/RiderProjects/TemplateProjects/licenses/license.txt" target="license.txt" />
   </files>
 </package>
