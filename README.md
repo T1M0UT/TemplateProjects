@@ -5,9 +5,9 @@
 ## How does it look like?
 - #### .Net Core 6.0
 <<<<<<< HEAD
-![.Net 6.0 View](https://github.com/T1M0UT/TemplateProjects/Images/blob/main/ApplicationViewNet6.png)
+![.Net 6.0 View](https://github.com/T1M0UT/TemplateProjects/blob/main/Images/ApplicationViewNet6.png)
 =======
-![.Net 6.0 View](https://github.com/T1M0UT/TemplateProjects/blob/main/ApplicationViewNet6.png)
+![.Net 6.0 View](https://github.com/T1M0UT/TemplateProjects/blob/main/Images/ApplicationViewNet6.png)
 >>>>>>> 7ed9ee4a43f2ec89b2f645adc360591eca8d056f
 - #### .Net Core 5.0
 ![.Net 5.0 View](https://github.com/T1M0UT/TemplateProjects/Images/blob/main/ApplicationViewNet5.png)
@@ -23,7 +23,7 @@
 If you use Visual Studio or Rider
 open NuGet Package Manager
 and than find KrasnianskiyConsoleTemplate:
-![.Net 5.0 View](https://github.com/T1M0UT/TemplateProjects/Images/blob/main/NuGet.png)
+![.Net 5.0 View](https://github.com/T1M0UT/TemplateProjects/blob/main/Images/NuGet.png)
 
 #### or
 
