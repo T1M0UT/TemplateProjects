@@ -11,6 +11,7 @@
 
 - Default net6.0 console app template is too short
 - You don't get extra "Hello World" or what so ever
+- To enjoy C# 10 features with a classic-style template
 
 
 ## Installation
