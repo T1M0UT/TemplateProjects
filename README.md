@@ -6,7 +6,7 @@
 - #### .Net Core 6.0
 ![.Net 6.0 View](https://github.com/T1M0UT/TemplateProjects/blob/main/Images/ApplicationViewNet6.png)
 - #### .Net Core 5.0
-![.Net 5.0 View](https://github.com/T1M0UT/TemplateProjects/Images/blob/main/ApplicationViewNet5.png)
+![.Net 5.0 View](https://github.com/T1M0UT/TemplateProjects/blob/main/Images/ApplicationViewNet5.png)
 ## Why would you need this?
 
 - Default net6.0 console app template is too short
