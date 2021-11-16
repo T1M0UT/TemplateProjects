@@ -20,7 +20,7 @@ If you use Visual Studio or Rider
 open NuGet Package Manager
 and than find KrasnianskiyConsoleTemplate
 
-### or
+#### or
 
 Use the terminal in your IDE or the default one, and type:
 
@@ -39,6 +39,8 @@ dotnet new krasnianskiyconsole -o "NAME_OF_YOUR_PROJECT"
 ```sh
 open NAME_OF_YOUR_PROJECT/NAME_OF_YOUR_PROJECT.sln
 ```
+#### or
+Use your IDE to create a new project and this custom one will appear automaticaly in "other templates"
 And there you go!
 
 ## Additional arguments
