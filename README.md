@@ -30,7 +30,7 @@ dotnet new --install KrasnianskiyConsoleTemplate::1.1.1
 
 ## Creating a new project
 
-1. Open terminal in your IDE or in the built-in one in the target directory
+1. Open terminal in your IDE or the built-in one in the target directory
 2. Type:
 ```sh
 dotnet new krasnianskiyconsole -o "NAME_OF_YOUR_PROJECT"
@@ -41,6 +41,7 @@ open NAME_OF_YOUR_PROJECT/NAME_OF_YOUR_PROJECT.sln
 ```
 #### or
 Use your IDE to create a new project and this custom one will appear automaticaly in "other templates"
+
 And there you go!
 
 ## Additional arguments
