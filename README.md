@@ -2,6 +2,11 @@
 
 [Github repo](https://github.com/T1M0UT/TemplateProjects)
 
+## How does it look like?
+- #### .Net Core 6.0
+![.Net 6.0 View](https://github.com/T1M0UT/TemplateProjects/blob/main/ApplicationViewNet6.png)
+- #### .Net Core 5.0
+![.Net 5.0 View](https://github.com/T1M0UT/TemplateProjects/blob/main/ApplicationViewNet5.png)
 ## Why would you need this?
 
 - Default net6.0 console app template is too short
@@ -37,7 +42,7 @@ And there you go!
 
 ## Additional arguments
 ##### *Too see the whole list type:*
-
+.
 ```sh
 dotnet new krasnianskiyconsole --help
 ```
