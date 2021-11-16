@@ -45,8 +45,8 @@ Use your IDE to create a new project and this custom one will appear automatical
 And there you go!
 
 ## Additional arguments
-##### *Too see the whole list type:*
-.
+#### *Too see the whole list type:*
+
 ```sh
 dotnet new krasnianskiyconsole --help
 ```
