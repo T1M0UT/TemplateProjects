@@ -6,6 +6,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <RootNamespace>MyCustomTemplate</RootNamespace>
+        <LangVersion>latest</LangVersion>
     </PropertyGroup>
 
 </Project>

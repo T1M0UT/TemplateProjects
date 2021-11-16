@@ -183,7 +183,7 @@
     "/Users/tymur/.nuget/packages/": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.1.1",
     "restore": {
       "projectUniqueName": "/Users/tymur/RiderProjects/TemplateProjects/MyConsoleTemplate.csproj",
       "projectName": "KrasnianskiyConsoleTemplate",

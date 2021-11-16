@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>KrasnianskiyConsoleTemplate</id>
+    <version>1.1.1</version>
+    <title>Tymur's Custom Templates</title>
+    <authors>Tymur Krasnianskiy</authors>
+    <license type="file">license.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <description>An empty .Net Core Console Application template</description>
+    <copyright>Copyright 2021</copyright>
+    <tags>dotnet-new templates</tags>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/tymur/RiderProjects/TemplateProjects/templates/.DS_Store" target="content/templates/.DS_Store" />
+    <file src="/Users/tymur/RiderProjects/TemplateProjects/templates/MyCustomTemplate/.DS_Store" target="content/templates/MyCustomTemplate/.DS_Store" />
+    <file src="/Users/tymur/RiderProjects/TemplateProjects/templates/MyCustomTemplate/.idea/.idea.MyCustomTemplate/.idea/.gitignore" target="content/templates/MyCustomTemplate/.idea/.idea.MyCustomTemplate/.idea/.gitignore" />
+    <file src="/Users/tymur/RiderProjects/TemplateProjects/templates/MyCustomTemplate/.idea/.idea.MyCustomTemplate/.idea/encodings.xml" target="content/templates/MyCustomTemplate/.idea/.idea.MyCustomTemplate/.idea/encodings.xml" />
+    <file src="/Users/tymur/RiderProjects/TemplateProjects/templates/MyCustomTemplate/.idea/.idea.MyCustomTemplate/.idea/indexLayout.xml" target="content/templates/MyCustomTemplate/.idea/.idea.MyCustomTemplate/.idea/indexLayout.xml" />
+    <file src="/Users/tymur/RiderProjects/TemplateProjects/templates/MyCustomTemplate/.idea/.idea.MyCustomTemplate/.idea/projectSettingsUpdater.xml" target="content/templates/MyCustomTemplate/.idea/.idea.MyCustomTemplate/.idea/projectSettingsUpdater.xml" />
+    <file src="/Users/tymur/RiderProjects/TemplateProjects/templates/MyCustomTemplate/.idea/.idea.MyCustomTemplate/.idea/vcs.xml" target="content/templates/MyCustomTemplate/.idea/.idea.MyCustomTemplate/.idea/vcs.xml" />
+    <file src="/Users/tymur/RiderProjects/TemplateProjects/templates/MyCustomTemplate/.idea/.idea.MyCustomTemplate/.idea/workspace.xml" target="content/templates/MyCustomTemplate/.idea/.idea.MyCustomTemplate/.idea/workspace.xml" />
+    <file src="/Users/tymur/RiderProjects/TemplateProjects/templates/MyCustomTemplate/.idea/.idea.MyTemplateSolution/.idea/workspace.xml" target="content/templates/MyCustomTemplate/.idea/.idea.MyTemplateSolution/.idea/workspace.xml" />
+    <file src="/Users/tymur/RiderProjects/TemplateProjects/templates/MyCustomTemplate/.template.config/template.json" target="content/templates/MyCustomTemplate/.template.config/template.json" />
+    <file src="/Users/tymur/RiderProjects/TemplateProjects/templates/MyCustomTemplate/MyCustomTemplate.sln" target="content/templates/MyCustomTemplate/MyCustomTemplate.sln" />
+    <file src="/Users/tymur/RiderProjects/TemplateProjects/templates/MyCustomTemplate/MyCustomTemplate/.DS_Store" target="content/templates/MyCustomTemplate/MyCustomTemplate/.DS_Store" />
+    <file src="/Users/tymur/RiderProjects/TemplateProjects/templates/MyCustomTemplate/MyCustomTemplate/MyCustomTemplate.csproj" target="content/templates/MyCustomTemplate/MyCustomTemplate/MyCustomTemplate.csproj" />
+    <file src="/Users/tymur/RiderProjects/TemplateProjects/templates/MyCustomTemplate/MyCustomTemplate/Program.cs" target="content/templates/MyCustomTemplate/MyCustomTemplate/Program.cs" />
+    <file src="/Users/tymur/RiderProjects/TemplateProjects/licenses/license.txt" target="license.txt" />
+  </files>
+</package>

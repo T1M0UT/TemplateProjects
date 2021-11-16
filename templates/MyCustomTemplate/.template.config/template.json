@@ -5,7 +5,7 @@
     "identity": "MyCustomTemplate",
     "name": "My custom console template",
     "desciption": "Custom C# .Net Core Template",
-    "shortName": "mycustomtemplate",
+    "shortName": "krasnianskiyconsole",
     "sourceName": "MyCustomTemplate",
     "tags": {
       "language": "C#",
@@ -20,9 +20,12 @@
         "choices": [
           {
             "choice": "net6.0"
+          },
+          {
+            "choice": "net5.0"
           }
         ],
-        "defaultValue": "net6.0",
+        "defaultValue": "net5.0",
         "replaces": "{TargetFramework}"
       }
     },
